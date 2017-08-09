@@ -2,7 +2,7 @@
 This repository hosts multiple examples of components to use in Qlik Sense mashups
 
 # 1. Container objects
-A component to toggle charts in the user interface
+### H3 A component to toggle charts in the user interface.
 All the files needed for this component can be found at: https://github.com/creatuluw/container_objects
 
 
