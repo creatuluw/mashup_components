@@ -1,6 +1,10 @@
-# mashup_components
+# Mashup components
 This repository hosts multiple examples of components to use in Qlik Sense mashups
 
-The Qlik Sense app used in all these examples can be found here:
+# 1. Container objects
+A component to toggle charts in the user interface
+All the files needed for this component can be found at: https://github.com/creatuluw/container_objects
 
+
+The Qlik Sense app used in all these examples can be found here:
 https://github.com/creatuluw/salesdata_app
