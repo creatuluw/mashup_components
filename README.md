@@ -2,6 +2,7 @@
 This repository hosts multiple examples of components to use in Qlik Sense mashups
 
 # 1. Container objects
+<img src="https://raw.githubusercontent.com/creatuluw/select_one_value/master/example.gif" align="center" width="300" />
 ### A component to toggle charts in the user interface.
 All the files needed for this component can be found at: https://github.com/creatuluw/container_objects
 
