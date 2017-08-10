@@ -27,8 +27,7 @@ All the files needed for this component can be found at: https://github.com/Maar
 All the files needed for this component can be found at: https://github.com/creatuluw/select_one_value
 <hr />
 
-
-<hr />
 #### Source application
 The Qlik Sense app used in all these examples can be found here:
 https://github.com/creatuluw/salesdata_app
+<hr />
