@@ -9,6 +9,10 @@ All the files needed for this component can be found at: https://github.com/crea
 ### A component to show filters with the technique of progressive disclosure
 All the files needed for this component can be found at: https://github.com/creatuluw/off_canvas_filtering
 
+# 3. Popup layer
+### A component to open a popup modal showing Qlik Sense content
+All the files needed for this component can be found at: https://github.com/Maartje123/Popup_Layer
+
 #### Source application
 The Qlik Sense app used in all these examples can be found here:
 https://github.com/creatuluw/salesdata_app
