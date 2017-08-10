@@ -13,6 +13,10 @@ All the files needed for this component can be found at: https://github.com/crea
 ### A component to open a popup modal showing Qlik Sense content
 All the files needed for this component can be found at: https://github.com/Maartje123/Popup_Layer
 
+# 4. Select only one value
+### A component to filter only on one value
+All the files needed for this component can be found at: https://github.com/creatuluw/select_one_value
+
 #### Source application
 The Qlik Sense app used in all these examples can be found here:
 https://github.com/creatuluw/salesdata_app
