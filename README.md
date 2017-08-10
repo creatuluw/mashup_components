@@ -9,7 +9,6 @@ All the files needed for this component can be found at: https://github.com/crea
 ### A component to show filters with the technique of progressive disclosure
 All the files needed for this component can be found at: https://github.com/creatuluw/off_canvas_filtering
 
-<br />
 ### Source application
 The Qlik Sense app used in all these examples can be found here:
 https://github.com/creatuluw/salesdata_app
